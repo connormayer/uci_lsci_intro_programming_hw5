@@ -1,16 +1,18 @@
 # Homework 5
 The fifth homework assignment from LSCI 109: Introduction to Programming for Language Science
 
-This homework consists of 3 problems, one in each of the following files:
+This homework consists of 3 problems, in each of the following files:
 * library.py
 * question3.txt
 
 The Python script has some code that you will need to fill in for the first two questions. 
+The third question asks you to provide written responses in the provided text file.
 Descriptions of each problem can be found in the PDF for this assignment on Canvas.
 
 Instructions for how to submit your assignment can be found in the Lab 2 handout.
 
-The tests folder contains the tests that will be used to grade your assignment. 
+The tests folder contains the tests that will be used to grade the code component
+of your assignment.
 Do not modify these tests (your assignment will be flagged in the system if
 you do), but feel free to look at them.
 
